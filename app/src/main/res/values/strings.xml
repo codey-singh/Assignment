@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="vote_please">Vote Please</string>
+    <string name="name">Name</string>
+    <string name="id">Id</string>
+    <string name="candidate_1">Candidate 1: </string>
+    <string name="candidate_2">Candidate 2:</string>
+    <string name="candidate_3">Candidate 3:</string>
+    <string name="vote">VOTE</string>
+    <string name="accept">ACCEPT</string>
+    <string name="refuse">REFUSE</string>
+    <string name="choose_error_msg">You are allowed to vote one time only</string>
+    <string name="error_msg">Please choose a candidate</string>
+
+    <string-array name="candidates">
+        <item>Choose a Candidate</item>
+        <item>Candidate 1</item>
+        <item>Candidate 2</item>
+        <item>Candidate 3</item>
+    </string-array>
+</resources>
